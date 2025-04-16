@@ -1,0 +1,44 @@
+{
+  "products": [
+    {
+      "id": "2",
+      "productName": "Pineapple Kale Smoothie",
+      "description": "Frozen pineapple and kale, coconut milk, ginger, and chia seeds",
+      "dairyFree": "Yes",
+      "price": "6",
+      "imageUrl": "https://www.ambitiouskitchen.com/wp-content/uploads/2021/05/Pineapple-Kale-Smoothie-5.jpg"
+    },
+    {
+      "id": "3",
+      "productName": "Raspberry Smoothie",
+      "description": "Frozen berries, greek yogurt, cherry juice and honey",
+      "dairyFree": "No",
+      "price": "10",
+      "imageUrl": "https://www.foodabovegold.com/wp-content/uploads/2021/07/Raspberry-Smoothie-Hero.jpg"
+    },
+    {
+      "id": "4",
+      "productName": "Watermelon Smoothie",
+      "description": "Summer watermelon, frozen strawberries, greek yogurt, honey, and almond milk. Blended with mint!",
+      "dairyFree": "No",
+      "price": "12",
+      "imageUrl": "https://www.wellplated.com/wp-content/uploads/2020/07/Creamy-Watermelon-Smoothie.jpg"
+    },
+    {
+      "id": "5",
+      "productName": "Grapefruit Smoothie",
+      "description": "desc",
+      "dairyFree": "No",
+      "price": "10",
+      "imageUrl": "https://www.eatingbirdfood.com/wp-content/uploads/2023/02/grapefruit-smoothie-hero-new.jpg"
+    },
+    {
+      "productName": "Banana Smoothie",
+      "description": "Banana, almond milk, honey, and peanut butter",
+      "dairyFree": "yes",
+      "price": "8",
+      "imageUrl": "https://www.allrecipes.com/thmb/knu0jvT_NdOneHX_hnQrbEwIL9A=/750x0/filters:no_upscale():max_bytes(150000):strip_icc():format(webp)/221261-Peanut-Butter-Banana-Smoothie-DDMFS-4x3-79533eeb04c84b42aae440d643fc9a31.jpg",
+      "id": "unaU9Mu"
+    }
+  ]
+}
